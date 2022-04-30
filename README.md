@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Senior Software Engineer @ Shopify
+
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/alexiscrack3?style=social">
+
 <!--
 **alexiscrack3/alexiscrack3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
